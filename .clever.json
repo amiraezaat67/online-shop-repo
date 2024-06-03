@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_b5314705-60eb-404d-9286-50d646e45c3f",
+      "org_id": "user_f15677ff-5e4f-4d03-b0c9-70be52a835b3",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_b5314705-60eb-404d-9286-50d646e45c3f.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_b5314705-60eb-404d-9286-50d646e45c3f.git",
+      "name": "online-shop-app",
+      "alias": "online-shop-app"
+    }
+  ]
+}
